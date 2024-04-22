@@ -41,7 +41,7 @@ Peso do Avião:
     <li>Caso contrário, é necessário acrescentar a cada metro de altitude excedente, um metro de pista ao tamanho mínimo da pista.</li>
   </ul>
 
-  <br><br>
+  <br>
 
   ## 🧠Massa de testes
   
