@@ -1,13 +1,6 @@
 #include<stdio.h>
 
-int main(){
-	
-	//Peso Avião   Pista    Vento   Altitude     Decola (S/N)
-    //100          1500      20       1000              S
-    //5000         1200      20       1000              N
-    //100		   1500	     20		  1001			    N
-	
-	
+int main(){	
 	float pesoAviao, comprimentoPista, velocidadeVento, altitudeAeroporto, pistaCorrigida;
 	
 	printf("Digite o peso do aviao em KG: ");
